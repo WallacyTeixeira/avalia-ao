@@ -1,4 +1,4 @@
-package POO2.Exercicio1;
+package SOMATIVA.Exercicio1;
 
 import java.util.Scanner;
 

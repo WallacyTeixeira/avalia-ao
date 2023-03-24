@@ -1,4 +1,4 @@
-package POO2.Exercicio2;
+package SOMATIVA.Exercicio2;
 
 public class Exercicio2 {
     
